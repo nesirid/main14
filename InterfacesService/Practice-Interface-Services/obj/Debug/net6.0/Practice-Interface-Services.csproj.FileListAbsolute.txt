@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\bin\Debug\net6.0\Practice-Interface-Services.exe
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\bin\Debug\net6.0\Practice-Interface-Services.deps.json
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\bin\Debug\net6.0\Practice-Interface-Services.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\bin\Debug\net6.0\Practice-Interface-Services.dll
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\bin\Debug\net6.0\Practice-Interface-Services.pdb
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.dll
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\refint\Practice-Interface-Services.dll
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.pdb
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\ref\Practice-Interface-Services.dll
+C:\Users\user\Desktop\CodeTask\Practice-Interface-Services\Practice-Interface-Services\obj\Debug\net6.0\Practice-Interface-Services.sourcelink.json
